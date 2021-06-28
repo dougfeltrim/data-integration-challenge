@@ -10,7 +10,7 @@
 
 # Third
 
-  ## Install Golang in\to your machine and build main
+  ## Install Golang into your machine and build main
 
   `go build main.go`
 
