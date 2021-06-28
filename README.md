@@ -26,24 +26,24 @@
 	
   Endopint to GET cusotmers 
   
-  `/customers`
+  `http://localhost:8000/customers`
 
   ## Method POST
 
   ## Endopint to CREATE cusotmers 
-  `/customers`
+  `http://localhost:8000/customers`
 
   ##  Method GET 
   Endopint to GET cusotmer 
   
-  `/customers/{id}`
+  `http://localhost:8000/customers/{id}`
 
   ## Method PUT 
   Endopint to MODIFY cusotmers 
   
-  `/customers/{id}`
+  `http://localhost:8000/customers/{id}`
  
 ## Method DELETE
   Endopint to DELETE cusotmer 
   
-  `/customers/{id}`
+  `http://localhost:8000/customers/{id}`
