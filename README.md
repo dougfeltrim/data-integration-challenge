@@ -19,3 +19,20 @@
 
   `./rest-api`
 
+
+# API endpoints
+  
+  Methods `GET` 
+	Endopint to GET cusotmers `/customers`
+
+	Methods `POST`
+  Endopint to CREATE cusotmers `/customers`
+
+  Methods `/GET` 
+  Endopint to GET cusotmer `/customers/{id}`
+
+  Methods `PUT` 
+  Endopint to MODIFY cusotmers `/customers/{id}`
+
+	Methods `DELETE` 
+  Endopint to DELETE cusotmer `/customers/{id}`
