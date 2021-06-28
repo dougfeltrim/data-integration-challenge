@@ -22,17 +22,28 @@
 
 # API endpoints
   
-  Methods `GET` 
-	Endopint to GET cusotmers `/customers`
+  ## Method GET 
+	
+  Endopint to GET cusotmers 
+  
+  `/customers`
 
-	Methods `POST`
-  Endopint to CREATE cusotmers `/customers`
+  ## Method POST
 
-  Methods `/GET` 
-  Endopint to GET cusotmer `/customers/{id}`
+  ## Endopint to CREATE cusotmers 
+  `/customers`
 
-  Methods `PUT` 
-  Endopint to MODIFY cusotmers `/customers/{id}`
+  ##  Method GET 
+  Endopint to GET cusotmer 
+  
+  `/customers/{id}`
 
-	Methods `DELETE` 
-  Endopint to DELETE cusotmer `/customers/{id}`
+  ## Method PUT 
+  Endopint to MODIFY cusotmers 
+  
+  `/customers/{id}`
+ 
+## Method DELETE
+  Endopint to DELETE cusotmer 
+  
+  `/customers/{id}`
